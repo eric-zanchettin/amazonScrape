@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://img.shields.io/github/languages/top/eric-zanchettin/amazonScrape?style=plastic" />
+  <img src="https://img.shields.io/github/license/eric-zanchettin/amazonScrape?style=plastic" />
+</div>
+
 <h1>Project: Amazon Scrape ⛏</h1>
 <p>This is an simple project created to web scrape Amazon Website. The idea is too get name and price info from the resulting search defined by the program!
 I used "iPhone" as the search value but you can easily change it on the code font on main.py on the field</p>
